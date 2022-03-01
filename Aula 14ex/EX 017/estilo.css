@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(93, 93, 187);
+    font: normal 15px arial;
+    color: white;
+}
+header{
+    text-align: center; /* alinhamento do cabeçalho */
+
+}
+section{
+    background: white;
+    border-radius: 10px; /* arredondamento dos cantos */
+    padding: 15px; /* criar espaço antes e depois das div's */
+    width: 500px; /* largura da section */
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.952); /* criar sombreamento */
+    color: black;
+}
+div {
+    padding: 5px;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+}
